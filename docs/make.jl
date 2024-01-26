@@ -1,8 +1,8 @@
 using Documenter
-using MyAwesomePackage
+using MVFA
 
 push!(LOAD_PATH,"../src/")
-makedocs(sitename="MyAwesomePackage.jl Documentation",
+makedocs(sitename="MVFA.jl Documentation",
          pages = [
             "Index" => "index.md",
             "An other page" => "anotherPage.md",
@@ -13,6 +13,6 @@ makedocs(sitename="MyAwesomePackage.jl Documentation",
 # See "Hosting Documentation" and deploydocs() in the Documenter manual
 # for more information.
 deploydocs(
-    repo = "github.com/sylvaticus/MyAwesomePackage.jl.git",
+    repo = "github.com/HANGW05/MyAwesomePackage.jl.git",
     devbranch = "main"
 )
