@@ -1,7 +1,7 @@
 name = "MVFA"
 uuid = "19daf8e9-0870-4f25-9c1d-f38ed379fe1e"
-authors = ["Hang.w"]
-version = "0.0.1"
+authors = ["Hang.W"]
+version = "0.1"
 
 [deps]
 DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
