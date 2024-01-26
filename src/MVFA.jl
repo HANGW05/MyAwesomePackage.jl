@@ -1,5 +1,5 @@
 """
-    MyAwesomePackage
+    MVFA
 
 Here you are, you found an awesome package :-)
 
