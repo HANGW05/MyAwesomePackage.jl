@@ -1,6 +1,6 @@
-name = "MyAwesomePackage"
+name = "MVFA"
 uuid = "19daf8e9-0870-4f25-9c1d-f38ed379fe1e"
-authors = ["Antonello Lobianco <antonello@lobianco.org>"]
+authors = ["Hang.w"]
 version = "0.0.1"
 
 [deps]
