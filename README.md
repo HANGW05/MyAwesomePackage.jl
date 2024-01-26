@@ -1,4 +1,4 @@
-# MyAwesomePackage
+# MVFA
 A dummy package for the [Julia Concise Tutorial](https://syl1.gitbook.io/julia-language-a-concise-tutorial/language-core/11-developing-julia-packages)
 
 To create a new package (let's say `MyPackage`):
