@@ -4,7 +4,7 @@
 Here you are, you found an awesome package :-)
 
 """
-module MyAwesomePackage
+module MVFA
 
 export plusTwo
 
