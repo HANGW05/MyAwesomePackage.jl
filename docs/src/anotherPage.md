@@ -1,18 +1,18 @@
-# The MyAwesomePackage Module
+# The MVFA Module
 
 ```@docs
-MyAwesomePackage
+MVFA
 ```
 
 ## Module Index
 
 ```@index
-Modules = [MyAwesomePackage]
+Modules = [MVFA]
 Order   = [:constant, :type, :function, :macro]
 ```
 ## Detailed API
 
 ```@autodocs
-Modules = [MyAwesomePackage]
+Modules = [MVFA]
 Order   = [:constant, :type, :function, :macro]
 ```
